@@ -2,11 +2,6 @@
 
 This project analyzes **pizza sales data** to extract **actionable business insights** using **MySQL**.  
 
----
-
-## 📹 **Project Video**  
-[▶ **Watch the Project Walkthrough**](./Uncovering%20Pizza%20Sales%20Insights%20Using%20MySQL.mp4)  
-*(Click to play/download directly from this repository.)*
 
 ---
 
