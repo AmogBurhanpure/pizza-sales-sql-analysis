@@ -41,8 +41,7 @@ This project analyzes **pizza sales data** to extract **actionable business insi
 
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/VAIBHAVKARALE1011/pizza-sales-sql-analysis.git
-   cd pizza-sales-sql-analysis
+   git clone (https://github.com/AmogBurhanpure/pizza-sales-sql-analysis)
    ```
 
 2. **Import the dataset into MySQL:**  
@@ -55,7 +54,7 @@ This project analyzes **pizza sales data** to extract **actionable business insi
 
 ## 👤 **Author**  
 
-**Vaibhav Karale**  
+**Amogsiddh Burhanpure**  
 
-- [**GitHub**](https://github.com/VAIBHAVKARALE1011)  
-- [**LinkedIn**](https://www.linkedin.com/in/vaibhavkarale)  
+- [**GitHub**](https://github.com/AmogBurhanpure/pizza-sales-sql-analysis)  
+- [**LinkedIn**](https://www.linkedin.com/in/amogsiddh-burhanpure-a9363928a/) 
